@@ -9,4 +9,3 @@
 - **HTML**
 - **CSS**
 - **Bootstrap**
-- **JavaScript**
